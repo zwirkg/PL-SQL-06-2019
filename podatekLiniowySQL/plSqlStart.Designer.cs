@@ -329,7 +329,7 @@ namespace podatekLiniowySQL
             this.txtInCost12.TabIndex = 46;
             this.txtInCost12.Text = "0,00";
             this.txtInCost12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost12.TextChanged += new System.EventHandler(this.txtInCost12_TextChanged);
+            this.txtInCost12.TextChanged += new System.EventHandler(this.TxtInCost12_TextChanged);
             this.txtInCost12.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue12
@@ -365,7 +365,7 @@ namespace podatekLiniowySQL
             this.txtInCost11.TabIndex = 42;
             this.txtInCost11.Text = "0,00";
             this.txtInCost11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost11.TextChanged += new System.EventHandler(this.txtInCost11_TextChanged);
+            this.txtInCost11.TextChanged += new System.EventHandler(this.TxtInCost11_TextChanged);
             this.txtInCost11.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue11
@@ -378,7 +378,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue11.TabIndex = 41;
             this.txtGrowRevenue11.Text = "0,00";
             this.txtGrowRevenue11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue11.TextChanged += new System.EventHandler(this.txtGrowRevenue11_TextChanged);
+            this.txtGrowRevenue11.TextChanged += new System.EventHandler(this.TxtGrowRevenue11_TextChanged);
             this.txtGrowRevenue11.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label13
@@ -401,7 +401,7 @@ namespace podatekLiniowySQL
             this.txtInCost10.TabIndex = 38;
             this.txtInCost10.Text = "0,00";
             this.txtInCost10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost10.TextChanged += new System.EventHandler(this.txtInCost10_TextChanged);
+            this.txtInCost10.TextChanged += new System.EventHandler(this.TxtInCost10_TextChanged);
             this.txtInCost10.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue10
@@ -414,7 +414,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue10.TabIndex = 37;
             this.txtGrowRevenue10.Text = "0,00";
             this.txtGrowRevenue10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue10.TextChanged += new System.EventHandler(this.txtGrowRevenue10_TextChanged);
+            this.txtGrowRevenue10.TextChanged += new System.EventHandler(this.TxtGrowRevenue10_TextChanged);
             this.txtGrowRevenue10.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label14
@@ -437,7 +437,7 @@ namespace podatekLiniowySQL
             this.txtInCost9.TabIndex = 34;
             this.txtInCost9.Text = "0,00";
             this.txtInCost9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost9.TextChanged += new System.EventHandler(this.txtInCost9_TextChanged);
+            this.txtInCost9.TextChanged += new System.EventHandler(this.TxtInCost9_TextChanged);
             this.txtInCost9.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue9
@@ -450,7 +450,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue9.TabIndex = 33;
             this.txtGrowRevenue9.Text = "0,00";
             this.txtGrowRevenue9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue9.TextChanged += new System.EventHandler(this.txtGrowRevenue9_TextChanged);
+            this.txtGrowRevenue9.TextChanged += new System.EventHandler(this.TxtGrowRevenue9_TextChanged);
             this.txtGrowRevenue9.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label7
@@ -473,7 +473,7 @@ namespace podatekLiniowySQL
             this.txtInCost8.TabIndex = 30;
             this.txtInCost8.Text = "0,00";
             this.txtInCost8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost8.TextChanged += new System.EventHandler(this.txtInCost8_TextChanged);
+            this.txtInCost8.TextChanged += new System.EventHandler(this.TxtInCost8_TextChanged);
             this.txtInCost8.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue8
@@ -486,7 +486,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue8.TabIndex = 29;
             this.txtGrowRevenue8.Text = "0,00";
             this.txtGrowRevenue8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue8.TextChanged += new System.EventHandler(this.txtGrowRevenue8_TextChanged);
+            this.txtGrowRevenue8.TextChanged += new System.EventHandler(this.TxtGrowRevenue8_TextChanged);
             this.txtGrowRevenue8.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label8
@@ -509,7 +509,7 @@ namespace podatekLiniowySQL
             this.txtInCost7.TabIndex = 26;
             this.txtInCost7.Text = "0,00";
             this.txtInCost7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost7.TextChanged += new System.EventHandler(this.txtInCost7_TextChanged);
+            this.txtInCost7.TextChanged += new System.EventHandler(this.TxtInCost7_TextChanged);
             this.txtInCost7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue7
@@ -522,7 +522,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue7.TabIndex = 25;
             this.txtGrowRevenue7.Text = "0,00";
             this.txtGrowRevenue7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue7.TextChanged += new System.EventHandler(this.txtGrowRevenue7_TextChanged);
+            this.txtGrowRevenue7.TextChanged += new System.EventHandler(this.TxtGrowRevenue7_TextChanged);
             this.txtGrowRevenue7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label9
@@ -545,7 +545,7 @@ namespace podatekLiniowySQL
             this.txtInCost6.TabIndex = 22;
             this.txtInCost6.Text = "0,00";
             this.txtInCost6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost6.TextChanged += new System.EventHandler(this.txtInCost6_TextChanged);
+            this.txtInCost6.TextChanged += new System.EventHandler(this.TxtInCost6_TextChanged);
             this.txtInCost6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue6
@@ -558,7 +558,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue6.TabIndex = 21;
             this.txtGrowRevenue6.Text = "0,00";
             this.txtGrowRevenue6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue6.TextChanged += new System.EventHandler(this.txtGrowRevenue6_TextChanged);
+            this.txtGrowRevenue6.TextChanged += new System.EventHandler(this.TxtGrowRevenue6_TextChanged);
             this.txtGrowRevenue6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label10
@@ -581,7 +581,7 @@ namespace podatekLiniowySQL
             this.txtInCost5.TabIndex = 18;
             this.txtInCost5.Text = "0,00";
             this.txtInCost5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost5.TextChanged += new System.EventHandler(this.txtInCost5_TextChanged);
+            this.txtInCost5.TextChanged += new System.EventHandler(this.TxtInCost5_TextChanged);
             this.txtInCost5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue5
@@ -594,7 +594,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue5.TabIndex = 17;
             this.txtGrowRevenue5.Text = "0,00";
             this.txtGrowRevenue5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue5.TextChanged += new System.EventHandler(this.txtGrowRevenue5_TextChanged);
+            this.txtGrowRevenue5.TextChanged += new System.EventHandler(this.TxtGrowRevenue5_TextChanged);
             this.txtGrowRevenue5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label5
@@ -617,7 +617,7 @@ namespace podatekLiniowySQL
             this.txtInCost4.TabIndex = 14;
             this.txtInCost4.Text = "0,00";
             this.txtInCost4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost4.TextChanged += new System.EventHandler(this.txtInCost4_TextChanged);
+            this.txtInCost4.TextChanged += new System.EventHandler(this.TxtInCost4_TextChanged);
             this.txtInCost4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue4
@@ -630,7 +630,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue4.TabIndex = 13;
             this.txtGrowRevenue4.Text = "0,00";
             this.txtGrowRevenue4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue4.TextChanged += new System.EventHandler(this.txtGrowRevenue4_TextChanged);
+            this.txtGrowRevenue4.TextChanged += new System.EventHandler(this.TxtGrowRevenue4_TextChanged);
             this.txtGrowRevenue4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label6
@@ -653,7 +653,7 @@ namespace podatekLiniowySQL
             this.txtInCost3.TabIndex = 10;
             this.txtInCost3.Text = "0,00";
             this.txtInCost3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost3.TextChanged += new System.EventHandler(this.txtInCost3_TextChanged);
+            this.txtInCost3.TextChanged += new System.EventHandler(this.TxtInCost3_TextChanged);
             this.txtInCost3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue3
@@ -666,7 +666,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue3.TabIndex = 9;
             this.txtGrowRevenue3.Text = "0,00";
             this.txtGrowRevenue3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue3.TextChanged += new System.EventHandler(this.txtGrowRevenue3_TextChanged);
+            this.txtGrowRevenue3.TextChanged += new System.EventHandler(this.TxtGrowRevenue3_TextChanged);
             this.txtGrowRevenue3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label4
@@ -689,7 +689,7 @@ namespace podatekLiniowySQL
             this.txtInCost2.TabIndex = 6;
             this.txtInCost2.Text = "0,00";
             this.txtInCost2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtInCost2.TextChanged += new System.EventHandler(this.txtInCost2_TextChanged);
+            this.txtInCost2.TextChanged += new System.EventHandler(this.TxtInCost2_TextChanged);
             this.txtInCost2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtGrowRevenue2
@@ -702,7 +702,7 @@ namespace podatekLiniowySQL
             this.txtGrowRevenue2.TabIndex = 5;
             this.txtGrowRevenue2.Text = "0,00";
             this.txtGrowRevenue2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtGrowRevenue2.TextChanged += new System.EventHandler(this.txtGrowRevenue2_TextChanged);
+            this.txtGrowRevenue2.TextChanged += new System.EventHandler(this.TxtGrowRevenue2_TextChanged);
             this.txtGrowRevenue2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label3
@@ -1203,7 +1203,7 @@ namespace podatekLiniowySQL
             this.copyZus11.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus11, "Kopiuj składki z listopada na grudzień.\r\n");
             this.copyZus11.UseVisualStyleBackColor = true;
-            this.copyZus11.Click += new System.EventHandler(this.copyZus11_Click);
+            this.copyZus11.Click += new System.EventHandler(this.CopyZus11_Click);
             // 
             // txtAmountDed12
             // 
@@ -1243,7 +1243,7 @@ namespace podatekLiniowySQL
             this.copyZus10.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus10, "Kopiuj składki z października na listopad.\r\n");
             this.copyZus10.UseVisualStyleBackColor = true;
-            this.copyZus10.Click += new System.EventHandler(this.copyZus10_Click);
+            this.copyZus10.Click += new System.EventHandler(this.CopyZus10_Click);
             // 
             // txtAmountDed10
             // 
@@ -1283,7 +1283,7 @@ namespace podatekLiniowySQL
             this.copyZus9.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus9, "Kopiuj składki z września na październik.\r\n");
             this.copyZus9.UseVisualStyleBackColor = true;
-            this.copyZus9.Click += new System.EventHandler(this.copyZus9_Click);
+            this.copyZus9.Click += new System.EventHandler(this.CopyZus9_Click);
             // 
             // txtAmountDed8
             // 
@@ -1323,7 +1323,7 @@ namespace podatekLiniowySQL
             this.copyZus8.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus8, "Kopiuj składki z sierpnia na wrzesień.\r\n");
             this.copyZus8.UseVisualStyleBackColor = true;
-            this.copyZus8.Click += new System.EventHandler(this.copyZus8_Click);
+            this.copyZus8.Click += new System.EventHandler(this.CopyZus8_Click);
             // 
             // txtAmountDed6
             // 
@@ -1363,7 +1363,7 @@ namespace podatekLiniowySQL
             this.copyZus7.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus7, "Kopiuj składki z lipca na sierpień\r\n.");
             this.copyZus7.UseVisualStyleBackColor = true;
-            this.copyZus7.Click += new System.EventHandler(this.copyZus7_Click);
+            this.copyZus7.Click += new System.EventHandler(this.CopyZus7_Click);
             // 
             // txtAmountDed4
             // 
@@ -1403,7 +1403,7 @@ namespace podatekLiniowySQL
             this.copyZus6.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus6, "Kopiuj składki z czerwca na lipiec.\r\n");
             this.copyZus6.UseVisualStyleBackColor = true;
-            this.copyZus6.Click += new System.EventHandler(this.copyZus6_Click);
+            this.copyZus6.Click += new System.EventHandler(this.CopyZus6_Click);
             // 
             // txtAmountDed2
             // 
@@ -1440,7 +1440,7 @@ namespace podatekLiniowySQL
             this.copyZus5.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus5, "Kopiuj składki z maja na czerwiec.\r\n");
             this.copyZus5.UseVisualStyleBackColor = true;
-            this.copyZus5.Click += new System.EventHandler(this.copyZus5_Click);
+            this.copyZus5.Click += new System.EventHandler(this.CopyZus5_Click);
             // 
             // txtAmountDed1
             // 
@@ -1477,7 +1477,7 @@ namespace podatekLiniowySQL
             this.copyZus4.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus4, "Kopiuj składki z kwietnia na maj.\r\n");
             this.copyZus4.UseVisualStyleBackColor = true;
-            this.copyZus4.Click += new System.EventHandler(this.copyZus4_Click);
+            this.copyZus4.Click += new System.EventHandler(this.CopyZus4_Click);
             // 
             // txtSIns12
             // 
@@ -1488,7 +1488,7 @@ namespace podatekLiniowySQL
             this.txtSIns12.TabIndex = 47;
             this.txtSIns12.Text = "0,00";
             this.txtSIns12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns12.TextChanged += new System.EventHandler(this.txtSIns12_TextChanged);
+            this.txtSIns12.TextChanged += new System.EventHandler(this.TxtSIns12_TextChanged);
             this.txtSIns12.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns1
@@ -1515,7 +1515,7 @@ namespace podatekLiniowySQL
             this.copyZus3.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus3, "Kopiuj składki z marca na kwiecień.\r\n");
             this.copyZus3.UseVisualStyleBackColor = true;
-            this.copyZus3.Click += new System.EventHandler(this.copyZus3_Click);
+            this.copyZus3.Click += new System.EventHandler(this.CopyZus3_Click);
             // 
             // txtHIns12
             // 
@@ -1526,7 +1526,7 @@ namespace podatekLiniowySQL
             this.txtHIns12.TabIndex = 48;
             this.txtHIns12.Text = "0,00";
             this.txtHIns12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns12.TextChanged += new System.EventHandler(this.txtHIns12_TextChanged);
+            this.txtHIns12.TextChanged += new System.EventHandler(this.TxtHIns12_TextChanged);
             this.txtHIns12.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns2
@@ -1538,7 +1538,7 @@ namespace podatekLiniowySQL
             this.txtSIns2.TabIndex = 7;
             this.txtSIns2.Text = "0,00";
             this.txtSIns2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns2.TextChanged += new System.EventHandler(this.txtSIns2_TextChanged);
+            this.txtSIns2.TextChanged += new System.EventHandler(this.TxtSIns2_TextChanged);
             this.txtSIns2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // copyZus2
@@ -1553,7 +1553,7 @@ namespace podatekLiniowySQL
             this.copyZus2.TabIndex = 98;
             this.toolTip.SetToolTip(this.copyZus2, "Kopiuj składki z lutego na marzec.\r\n");
             this.copyZus2.UseVisualStyleBackColor = true;
-            this.copyZus2.Click += new System.EventHandler(this.copyZus2_Click);
+            this.copyZus2.Click += new System.EventHandler(this.CopyZus2_Click);
             // 
             // txtSIns3
             // 
@@ -1564,7 +1564,7 @@ namespace podatekLiniowySQL
             this.txtSIns3.TabIndex = 11;
             this.txtSIns3.Text = "0,00";
             this.txtSIns3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns3.TextChanged += new System.EventHandler(this.txtSIns3_TextChanged);
+            this.txtSIns3.TextChanged += new System.EventHandler(this.TxtSIns3_TextChanged);
             this.txtSIns3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns11
@@ -1576,7 +1576,7 @@ namespace podatekLiniowySQL
             this.txtHIns11.TabIndex = 44;
             this.txtHIns11.Text = "0,00";
             this.txtHIns11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns11.TextChanged += new System.EventHandler(this.txtHIns11_TextChanged);
+            this.txtHIns11.TextChanged += new System.EventHandler(this.TxtHIns11_TextChanged);
             this.txtHIns11.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // copyZus1
@@ -1591,7 +1591,7 @@ namespace podatekLiniowySQL
             this.copyZus1.TabIndex = 97;
             this.toolTip.SetToolTip(this.copyZus1, "Kopiuj składki ze stycznia na luty.\r\n");
             this.copyZus1.UseVisualStyleBackColor = true;
-            this.copyZus1.Click += new System.EventHandler(this.copyZus1_Click);
+            this.copyZus1.Click += new System.EventHandler(this.CopyZus1_Click);
             // 
             // txtSIns11
             // 
@@ -1602,7 +1602,7 @@ namespace podatekLiniowySQL
             this.txtSIns11.TabIndex = 43;
             this.txtSIns11.Text = "0,00";
             this.txtSIns11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns11.TextChanged += new System.EventHandler(this.txtSIns11_TextChanged);
+            this.txtSIns11.TextChanged += new System.EventHandler(this.TxtSIns11_TextChanged);
             this.txtSIns11.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns4
@@ -1614,7 +1614,7 @@ namespace podatekLiniowySQL
             this.txtSIns4.TabIndex = 15;
             this.txtSIns4.Text = "0,00";
             this.txtSIns4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns4.TextChanged += new System.EventHandler(this.txtSIns4_TextChanged);
+            this.txtSIns4.TextChanged += new System.EventHandler(this.TxtSIns4_TextChanged);
             this.txtSIns4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns10
@@ -1626,7 +1626,7 @@ namespace podatekLiniowySQL
             this.txtHIns10.TabIndex = 40;
             this.txtHIns10.Text = "0,00";
             this.txtHIns10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns10.TextChanged += new System.EventHandler(this.txtHIns10_TextChanged);
+            this.txtHIns10.TextChanged += new System.EventHandler(this.TxtHIns10_TextChanged);
             this.txtHIns10.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns5
@@ -1638,7 +1638,7 @@ namespace podatekLiniowySQL
             this.txtSIns5.TabIndex = 19;
             this.txtSIns5.Text = "0,00";
             this.txtSIns5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns5.TextChanged += new System.EventHandler(this.txtSIns5_TextChanged);
+            this.txtSIns5.TextChanged += new System.EventHandler(this.TxtSIns5_TextChanged);
             this.txtSIns5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns6
@@ -1650,7 +1650,7 @@ namespace podatekLiniowySQL
             this.txtSIns6.TabIndex = 23;
             this.txtSIns6.Text = "0,00";
             this.txtSIns6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns6.TextChanged += new System.EventHandler(this.txtSIns6_TextChanged);
+            this.txtSIns6.TextChanged += new System.EventHandler(this.TxtSIns6_TextChanged);
             this.txtSIns6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns9
@@ -1662,7 +1662,7 @@ namespace podatekLiniowySQL
             this.txtHIns9.TabIndex = 36;
             this.txtHIns9.Text = "0,00";
             this.txtHIns9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns9.TextChanged += new System.EventHandler(this.txtHIns9_TextChanged);
+            this.txtHIns9.TextChanged += new System.EventHandler(this.TxtHIns9_TextChanged);
             this.txtHIns9.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns10
@@ -1674,7 +1674,7 @@ namespace podatekLiniowySQL
             this.txtSIns10.TabIndex = 39;
             this.txtSIns10.Text = "0,00";
             this.txtSIns10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns10.TextChanged += new System.EventHandler(this.txtSIns10_TextChanged);
+            this.txtSIns10.TextChanged += new System.EventHandler(this.TxtSIns10_TextChanged);
             this.txtSIns10.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns7
@@ -1686,7 +1686,7 @@ namespace podatekLiniowySQL
             this.txtSIns7.TabIndex = 27;
             this.txtSIns7.Text = "0,00";
             this.txtSIns7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns7.TextChanged += new System.EventHandler(this.txtSIns7_TextChanged);
+            this.txtSIns7.TextChanged += new System.EventHandler(this.TxtSIns7_TextChanged);
             this.txtSIns7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns8
@@ -1698,7 +1698,7 @@ namespace podatekLiniowySQL
             this.txtHIns8.TabIndex = 32;
             this.txtHIns8.Text = "0,00";
             this.txtHIns8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns8.TextChanged += new System.EventHandler(this.txtHIns8_TextChanged);
+            this.txtHIns8.TextChanged += new System.EventHandler(this.TxtHIns8_TextChanged);
             this.txtHIns8.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns8
@@ -1710,7 +1710,7 @@ namespace podatekLiniowySQL
             this.txtSIns8.TabIndex = 31;
             this.txtSIns8.Text = "0,00";
             this.txtSIns8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns8.TextChanged += new System.EventHandler(this.txtSIns8_TextChanged);
+            this.txtSIns8.TextChanged += new System.EventHandler(this.TxtSIns8_TextChanged);
             this.txtSIns8.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtSIns9
@@ -1722,7 +1722,7 @@ namespace podatekLiniowySQL
             this.txtSIns9.TabIndex = 35;
             this.txtSIns9.Text = "0,00";
             this.txtSIns9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtSIns9.TextChanged += new System.EventHandler(this.txtSIns9_TextChanged);
+            this.txtSIns9.TextChanged += new System.EventHandler(this.TxtSIns9_TextChanged);
             this.txtSIns9.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns7
@@ -1734,7 +1734,7 @@ namespace podatekLiniowySQL
             this.txtHIns7.TabIndex = 28;
             this.txtHIns7.Text = "0,00";
             this.txtHIns7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns7.TextChanged += new System.EventHandler(this.txtHIns7_TextChanged);
+            this.txtHIns7.TextChanged += new System.EventHandler(this.TxtHIns7_TextChanged);
             this.txtHIns7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns6
@@ -1746,7 +1746,7 @@ namespace podatekLiniowySQL
             this.txtHIns6.TabIndex = 24;
             this.txtHIns6.Text = "0,00";
             this.txtHIns6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns6.TextChanged += new System.EventHandler(this.txtHIns6_TextChanged);
+            this.txtHIns6.TextChanged += new System.EventHandler(this.TxtHIns6_TextChanged);
             this.txtHIns6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns5
@@ -1758,7 +1758,7 @@ namespace podatekLiniowySQL
             this.txtHIns5.TabIndex = 20;
             this.txtHIns5.Text = "0,00";
             this.txtHIns5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns5.TextChanged += new System.EventHandler(this.txtHIns5_TextChanged);
+            this.txtHIns5.TextChanged += new System.EventHandler(this.TxtHIns5_TextChanged);
             this.txtHIns5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns4
@@ -1770,7 +1770,7 @@ namespace podatekLiniowySQL
             this.txtHIns4.TabIndex = 16;
             this.txtHIns4.Text = "0,00";
             this.txtHIns4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns4.TextChanged += new System.EventHandler(this.txtHIns4_TextChanged);
+            this.txtHIns4.TextChanged += new System.EventHandler(this.TxtHIns4_TextChanged);
             this.txtHIns4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns3
@@ -1782,7 +1782,7 @@ namespace podatekLiniowySQL
             this.txtHIns3.TabIndex = 12;
             this.txtHIns3.Text = "0,00";
             this.txtHIns3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns3.TextChanged += new System.EventHandler(this.txtHIns3_TextChanged);
+            this.txtHIns3.TextChanged += new System.EventHandler(this.TxtHIns3_TextChanged);
             this.txtHIns3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // txtHIns2
@@ -1794,7 +1794,7 @@ namespace podatekLiniowySQL
             this.txtHIns2.TabIndex = 8;
             this.txtHIns2.Text = "0,00";
             this.txtHIns2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtHIns2.TextChanged += new System.EventHandler(this.txtHIns2_TextChanged);
+            this.txtHIns2.TextChanged += new System.EventHandler(this.TxtHIns2_TextChanged);
             this.txtHIns2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
             // 
             // label41
@@ -2365,7 +2365,7 @@ namespace podatekLiniowySQL
             // timer1
             // 
             this.timer1.Interval = 3000;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick_1);
+            this.timer1.Tick += new System.EventHandler(this.Timer1_Tick_1);
             // 
             // menuStrip1
             // 
@@ -2395,7 +2395,7 @@ namespace podatekLiniowySQL
             this.zakmToolStripMenuItem.Name = "zakmToolStripMenuItem";
             this.zakmToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
             this.zakmToolStripMenuItem.Text = "Zakończ";
-            this.zakmToolStripMenuItem.Click += new System.EventHandler(this.zakmToolStripMenuItem_Click);
+            this.zakmToolStripMenuItem.Click += new System.EventHandler(this.ZakmToolStripMenuItem_Click);
             // 
             // narzędziaToolStripMenuItem
             // 
@@ -2420,21 +2420,21 @@ namespace podatekLiniowySQL
             this.sprawdźStwórzBazToolStripMenuItem.Name = "sprawdźStwórzBazToolStripMenuItem";
             this.sprawdźStwórzBazToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.sprawdźStwórzBazToolStripMenuItem.Text = "Sprawdź / stwórz";
-            this.sprawdźStwórzBazToolStripMenuItem.Click += new System.EventHandler(this.sprawdźStwórzBazToolStripMenuItem_Click);
+            this.sprawdźStwórzBazToolStripMenuItem.Click += new System.EventHandler(this.SprawdzStworzBazToolStripMenuItem_Click);
             // 
             // wczytajDaneToolStripMenuItem
             // 
             this.wczytajDaneToolStripMenuItem.Name = "wczytajDaneToolStripMenuItem";
             this.wczytajDaneToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.wczytajDaneToolStripMenuItem.Text = "Wczytaj dane";
-            this.wczytajDaneToolStripMenuItem.Click += new System.EventHandler(this.wczytajDaneToolStripMenuItem_Click);
+            this.wczytajDaneToolStripMenuItem.Click += new System.EventHandler(this.WczytajDaneToolStripMenuItem_Click);
             // 
             // zapiszDaneToolStripMenuItem
             // 
             this.zapiszDaneToolStripMenuItem.Name = "zapiszDaneToolStripMenuItem";
             this.zapiszDaneToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
             this.zapiszDaneToolStripMenuItem.Text = "Zapisz dane";
-            this.zapiszDaneToolStripMenuItem.Click += new System.EventHandler(this.zapiszDaneToolStripMenuItem_Click);
+            this.zapiszDaneToolStripMenuItem.Click += new System.EventHandler(this.ZapiszDaneToolStripMenuItem_Click);
             // 
             // informacjeToolStripMenuItem
             // 
@@ -2479,7 +2479,7 @@ namespace podatekLiniowySQL
             this.llblMin.TabStop = true;
             this.llblMin.Text = "Minimalizuj";
             this.llblMin.VisitedLinkColor = System.Drawing.Color.Black;
-            this.llblMin.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llblMin_LinkClicked);
+            this.llblMin.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LlblMin_LinkClicked);
             // 
             // llblMax
             // 
@@ -2495,7 +2495,7 @@ namespace podatekLiniowySQL
             this.llblMax.TabStop = true;
             this.llblMax.Text = "Maksymalizuj";
             this.llblMax.VisitedLinkColor = System.Drawing.Color.Black;
-            this.llblMax.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llblMax_LinkClicked);
+            this.llblMax.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LlblMax_LinkClicked);
             // 
             // lblDateTime
             // 
@@ -2532,11 +2532,11 @@ namespace podatekLiniowySQL
             this.llblClose.TabStop = true;
             this.llblClose.Text = "Zamknij";
             this.llblClose.VisitedLinkColor = System.Drawing.Color.Black;
-            this.llblClose.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llblClose_LinkClicked);
+            this.llblClose.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LlblClose_LinkClicked);
             // 
             // timer2
             // 
-            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            this.timer2.Tick += new System.EventHandler(this.Timer2_Tick);
             // 
             // groupBox6
             // 
@@ -2601,7 +2601,7 @@ namespace podatekLiniowySQL
             this.copyTax12.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax12, "Wpłacono całą zaliczke za grudzień");
             this.copyTax12.UseVisualStyleBackColor = true;
-            this.copyTax12.Click += new System.EventHandler(this.copyTax12_Click);
+            this.copyTax12.Click += new System.EventHandler(this.CopyTax12_Click);
             // 
             // copyTax11
             // 
@@ -2615,7 +2615,7 @@ namespace podatekLiniowySQL
             this.copyTax11.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax11, "Wpłacono całą zaliczke za listopad.");
             this.copyTax11.UseVisualStyleBackColor = true;
-            this.copyTax11.Click += new System.EventHandler(this.copyTax11_Click);
+            this.copyTax11.Click += new System.EventHandler(this.CopyTax11_Click);
             // 
             // copyTax10
             // 
@@ -2629,7 +2629,7 @@ namespace podatekLiniowySQL
             this.copyTax10.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax10, "Wpłacono całą zaliczke za październik.");
             this.copyTax10.UseVisualStyleBackColor = true;
-            this.copyTax10.Click += new System.EventHandler(this.copyTax10_Click);
+            this.copyTax10.Click += new System.EventHandler(this.CopyTax10_Click);
             // 
             // copyTax9
             // 
@@ -2643,7 +2643,7 @@ namespace podatekLiniowySQL
             this.copyTax9.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax9, "Wpłacono całą zaliczke za wrzesień.");
             this.copyTax9.UseVisualStyleBackColor = true;
-            this.copyTax9.Click += new System.EventHandler(this.copyTax9_Click);
+            this.copyTax9.Click += new System.EventHandler(this.CopyTax9_Click);
             // 
             // copyTax8
             // 
@@ -2657,7 +2657,7 @@ namespace podatekLiniowySQL
             this.copyTax8.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax8, "Wpłacono całą zaliczke za sierpień.");
             this.copyTax8.UseVisualStyleBackColor = true;
-            this.copyTax8.Click += new System.EventHandler(this.copyTax8_Click);
+            this.copyTax8.Click += new System.EventHandler(this.CopyTax8_Click);
             // 
             // copyTax7
             // 
@@ -2671,7 +2671,7 @@ namespace podatekLiniowySQL
             this.copyTax7.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax7, "Wpłacono całą zaliczke za lipiec.");
             this.copyTax7.UseVisualStyleBackColor = true;
-            this.copyTax7.Click += new System.EventHandler(this.copyTax7_Click);
+            this.copyTax7.Click += new System.EventHandler(this.CopyTax7_Click);
             // 
             // copyTax6
             // 
@@ -2685,7 +2685,7 @@ namespace podatekLiniowySQL
             this.copyTax6.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax6, "Wpłacono całą zaliczke za czerwiec.");
             this.copyTax6.UseVisualStyleBackColor = true;
-            this.copyTax6.Click += new System.EventHandler(this.copyTax6_Click);
+            this.copyTax6.Click += new System.EventHandler(this.CopyTax6_Click);
             // 
             // copyTax5
             // 
@@ -2699,7 +2699,7 @@ namespace podatekLiniowySQL
             this.copyTax5.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax5, "Wpłacono całą zaliczke za maj.");
             this.copyTax5.UseVisualStyleBackColor = true;
-            this.copyTax5.Click += new System.EventHandler(this.copyTax5_Click);
+            this.copyTax5.Click += new System.EventHandler(this.CopyTax5_Click);
             // 
             // copyTax4
             // 
@@ -2713,7 +2713,7 @@ namespace podatekLiniowySQL
             this.copyTax4.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax4, "Wpłacono całą zaliczke za kwiecień.");
             this.copyTax4.UseVisualStyleBackColor = true;
-            this.copyTax4.Click += new System.EventHandler(this.copyTax4_Click);
+            this.copyTax4.Click += new System.EventHandler(this.CopyTax4_Click);
             // 
             // copyTax3
             // 
@@ -2727,7 +2727,7 @@ namespace podatekLiniowySQL
             this.copyTax3.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax3, "Wpłacono całą zaliczke za marzec.");
             this.copyTax3.UseVisualStyleBackColor = true;
-            this.copyTax3.Click += new System.EventHandler(this.copyTax3_Click);
+            this.copyTax3.Click += new System.EventHandler(this.CopyTax3_Click);
             // 
             // copyTax2
             // 
@@ -2741,7 +2741,7 @@ namespace podatekLiniowySQL
             this.copyTax2.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax2, "Wpłacono całą zaliczke za luty.");
             this.copyTax2.UseVisualStyleBackColor = true;
-            this.copyTax2.Click += new System.EventHandler(this.copyTax2_Click);
+            this.copyTax2.Click += new System.EventHandler(this.CopyTax2_Click);
             // 
             // button2
             // 
@@ -2767,7 +2767,7 @@ namespace podatekLiniowySQL
             this.copyTax1.Text = "=>>";
             this.toolTip.SetToolTip(this.copyTax1, "Wpłacono całą zaliczke za styczeń.");
             this.copyTax1.UseVisualStyleBackColor = true;
-            this.copyTax1.Click += new System.EventHandler(this.copyTax1_Click);
+            this.copyTax1.Click += new System.EventHandler(this.CopyTax1_Click);
             // 
             // button1
             // 
@@ -2972,7 +2972,7 @@ namespace podatekLiniowySQL
             this.txtPaid12.TabStop = false;
             this.txtPaid12.Text = "0";
             this.txtPaid12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid12.TextChanged += new System.EventHandler(this.txtPaid12_TextChanged);
+            this.txtPaid12.TextChanged += new System.EventHandler(this.TxtPaid12_TextChanged);
             // 
             // txtPaid11
             // 
@@ -2986,7 +2986,7 @@ namespace podatekLiniowySQL
             this.txtPaid11.TabStop = false;
             this.txtPaid11.Text = "0";
             this.txtPaid11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid11.TextChanged += new System.EventHandler(this.txtPaid11_TextChanged);
+            this.txtPaid11.TextChanged += new System.EventHandler(this.TxtPaid11_TextChanged);
             // 
             // txtPaid10
             // 
@@ -3000,7 +3000,7 @@ namespace podatekLiniowySQL
             this.txtPaid10.TabStop = false;
             this.txtPaid10.Text = "0";
             this.txtPaid10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid10.TextChanged += new System.EventHandler(this.txtPaid10_TextChanged);
+            this.txtPaid10.TextChanged += new System.EventHandler(this.TxtPaid10_TextChanged);
             // 
             // txtPaid9
             // 
@@ -3014,7 +3014,7 @@ namespace podatekLiniowySQL
             this.txtPaid9.TabStop = false;
             this.txtPaid9.Text = "0";
             this.txtPaid9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid9.TextChanged += new System.EventHandler(this.txtPaid9_TextChanged);
+            this.txtPaid9.TextChanged += new System.EventHandler(this.TxtPaid9_TextChanged);
             // 
             // txtPaid8
             // 
@@ -3028,7 +3028,7 @@ namespace podatekLiniowySQL
             this.txtPaid8.TabStop = false;
             this.txtPaid8.Text = "0";
             this.txtPaid8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid8.TextChanged += new System.EventHandler(this.txtPaid8_TextChanged);
+            this.txtPaid8.TextChanged += new System.EventHandler(this.TxtPaid8_TextChanged);
             // 
             // txtPaid7
             // 
@@ -3042,7 +3042,7 @@ namespace podatekLiniowySQL
             this.txtPaid7.TabStop = false;
             this.txtPaid7.Text = "0";
             this.txtPaid7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid7.TextChanged += new System.EventHandler(this.txtPaid7_TextChanged);
+            this.txtPaid7.TextChanged += new System.EventHandler(this.TxtPaid7_TextChanged);
             // 
             // txtPaid6
             // 
@@ -3056,7 +3056,7 @@ namespace podatekLiniowySQL
             this.txtPaid6.TabStop = false;
             this.txtPaid6.Text = "0";
             this.txtPaid6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid6.TextChanged += new System.EventHandler(this.txtPaid6_TextChanged);
+            this.txtPaid6.TextChanged += new System.EventHandler(this.TxtPaid6_TextChanged);
             // 
             // txtPaid5
             // 
@@ -3070,7 +3070,7 @@ namespace podatekLiniowySQL
             this.txtPaid5.TabStop = false;
             this.txtPaid5.Text = "0";
             this.txtPaid5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid5.TextChanged += new System.EventHandler(this.txtPaid5_TextChanged);
+            this.txtPaid5.TextChanged += new System.EventHandler(this.TxtPaid5_TextChanged);
             // 
             // txtPaid4
             // 
@@ -3084,7 +3084,7 @@ namespace podatekLiniowySQL
             this.txtPaid4.TabStop = false;
             this.txtPaid4.Text = "0";
             this.txtPaid4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid4.TextChanged += new System.EventHandler(this.txtPaid4_TextChanged);
+            this.txtPaid4.TextChanged += new System.EventHandler(this.TxtPaid4_TextChanged);
             // 
             // txtPaid3
             // 
@@ -3098,7 +3098,7 @@ namespace podatekLiniowySQL
             this.txtPaid3.TabStop = false;
             this.txtPaid3.Text = "0";
             this.txtPaid3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid3.TextChanged += new System.EventHandler(this.txtPaid3_TextChanged);
+            this.txtPaid3.TextChanged += new System.EventHandler(this.TxtPaid3_TextChanged);
             // 
             // txtPaid2
             // 
@@ -3112,7 +3112,7 @@ namespace podatekLiniowySQL
             this.txtPaid2.TabStop = false;
             this.txtPaid2.Text = "0";
             this.txtPaid2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid2.TextChanged += new System.EventHandler(this.txtPaid2_TextChanged);
+            this.txtPaid2.TextChanged += new System.EventHandler(this.TxtPaid2_TextChanged);
             // 
             // label15
             // 
@@ -3137,7 +3137,7 @@ namespace podatekLiniowySQL
             this.txtPaid1.TabStop = false;
             this.txtPaid1.Text = "0";
             this.txtPaid1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtPaid1.TextChanged += new System.EventHandler(this.txtPaid1_TextChanged);
+            this.txtPaid1.TextChanged += new System.EventHandler(this.TxtPaid1_TextChanged);
             // 
             // plSql
             // 
@@ -3161,9 +3161,9 @@ namespace podatekLiniowySQL
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "podatekLiniowySQL";
             this.Load += new System.EventHandler(this.plSql_Load);
-            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.plSql_MouseDown);
-            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.plSql_MouseMove);
-            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.plSql_MouseUp);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.PlSql_MouseDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.PlSql_MouseMove);
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.PlSql_MouseUp);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

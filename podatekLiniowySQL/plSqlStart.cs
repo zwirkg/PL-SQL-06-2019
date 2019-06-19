@@ -1568,172 +1568,172 @@ namespace podatekLiniowySQL
             TaxPrepayMonth1();
         }
         //--------------------------------------------------------------------------------------------------------------------------2
-        private void txtGrowRevenue2_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue2_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth2();
         }
-        private void txtInCost2_TextChanged(object sender, EventArgs e)
+        private void TxtInCost2_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth2();
         }
-        private void txtHIns2_TextChanged(object sender, EventArgs e)
+        private void TxtHIns2_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth2();
         }
-        private void txtSIns2_TextChanged(object sender, EventArgs e)
+        private void TxtSIns2_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth2();
         }
         //--------------------------------------------------------------------------------------------------------------------------3
-        private void txtGrowRevenue3_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue3_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth3();
         }
-        private void txtInCost3_TextChanged(object sender, EventArgs e)
+        private void TxtInCost3_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth3();
         }
-        private void txtHIns3_TextChanged(object sender, EventArgs e)
+        private void TxtHIns3_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth3();
         }
-        private void txtSIns3_TextChanged(object sender, EventArgs e)
+        private void TxtSIns3_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth3();
         }
         //--------------------------------------------------------------------------------------------------------------------------7
-        private void txtGrowRevenue4_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue4_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth4();
         }
-        private void txtInCost4_TextChanged(object sender, EventArgs e)
+        private void TxtInCost4_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth4();
         }
-        private void txtHIns4_TextChanged(object sender, EventArgs e)
+        private void TxtHIns4_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth4();
         }
-        private void txtSIns4_TextChanged(object sender, EventArgs e)
+        private void TxtSIns4_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth4();
         }
         //-------------------------------------------------------------------------------------------------------------------------5
-        private void txtGrowRevenue5_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue5_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth5();
         }
-        private void txtInCost5_TextChanged(object sender, EventArgs e)
+        private void TxtInCost5_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth5();
         }
-        private void txtHIns5_TextChanged(object sender, EventArgs e)
+        private void TxtHIns5_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth5();
         }
-        private void txtSIns5_TextChanged(object sender, EventArgs e)
+        private void TxtSIns5_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth5();
         }
         //-------------------------------------------------------------------------------------------------------------------------6
-        private void txtGrowRevenue6_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue6_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth6();
         }
-        private void txtInCost6_TextChanged(object sender, EventArgs e)
+        private void TxtInCost6_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth6();
         }
-        private void txtHIns6_TextChanged(object sender, EventArgs e)
+        private void TxtHIns6_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth6();
         }
-        private void txtSIns6_TextChanged(object sender, EventArgs e)
+        private void TxtSIns6_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth6();
         }
         //-------------------------------------------------------------------------------------------------------------------------7
-        private void txtGrowRevenue7_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue7_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth7();
         }
-        private void txtInCost7_TextChanged(object sender, EventArgs e)
+        private void TxtInCost7_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth7();
         }
-        private void txtHIns7_TextChanged(object sender, EventArgs e)
+        private void TxtHIns7_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth7();
         }
-        private void txtSIns7_TextChanged(object sender, EventArgs e)
+        private void TxtSIns7_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth7();
         }
         //-------------------------------------------------------------------------------------------------------------------------8
-        private void txtGrowRevenue8_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue8_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth8();
         }
-        private void txtInCost8_TextChanged(object sender, EventArgs e)
+        private void TxtInCost8_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth8();
         }
-        private void txtHIns8_TextChanged(object sender, EventArgs e)
+        private void TxtHIns8_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth8();
         }
-        private void txtSIns8_TextChanged(object sender, EventArgs e)
+        private void TxtSIns8_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth8();
         }
         //-------------------------------------------------------------------------------------------------------------------------9
-        private void txtGrowRevenue9_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue9_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth9();
         }
-        private void txtInCost9_TextChanged(object sender, EventArgs e)
+        private void TxtInCost9_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth9();
         }
-        private void txtHIns9_TextChanged(object sender, EventArgs e)
+        private void TxtHIns9_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth9();
         }
-        private void txtSIns9_TextChanged(object sender, EventArgs e)
+        private void TxtSIns9_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth9();
         }
         //------------------------------------------------------------------------------------------------------------------------10
-        private void txtGrowRevenue10_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue10_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth10();
         }
-        private void txtInCost10_TextChanged(object sender, EventArgs e)
+        private void TxtInCost10_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth10();
         }
-        private void txtHIns10_TextChanged(object sender, EventArgs e)
+        private void TxtHIns10_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth10();
         }
-        private void txtSIns10_TextChanged(object sender, EventArgs e)
+        private void TxtSIns10_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth10();
         }
         //-----------------------------------------------------------------------------------------------------------------------11
-        private void txtGrowRevenue11_TextChanged(object sender, EventArgs e)
+        private void TxtGrowRevenue11_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth11();
         }
-        private void txtInCost11_TextChanged(object sender, EventArgs e)
+        private void TxtInCost11_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth11();
         }
-        private void txtHIns11_TextChanged(object sender, EventArgs e)
+        private void TxtHIns11_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth11();
         }
-        private void txtSIns11_TextChanged(object sender, EventArgs e)
+        private void TxtSIns11_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth11();
         }
@@ -1742,20 +1742,20 @@ namespace podatekLiniowySQL
         {
             TaxPrepayMonth12();
         }
-        private void txtInCost12_TextChanged(object sender, EventArgs e)
+        private void TxtInCost12_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth12();
         }
-        private void txtHIns12_TextChanged(object sender, EventArgs e)
+        private void TxtHIns12_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth12();
         }
-        private void txtSIns12_TextChanged(object sender, EventArgs e)
+        private void TxtSIns12_TextChanged(object sender, EventArgs e)
         {
             TaxPrepayMonth12();
         }
         // ----------------------------------------------------------------------------TextBOXy--------------------------------KONIEC
-        private void timer1_Tick_1(object sender, EventArgs e)
+        private void Timer1_Tick_1(object sender, EventArgs e)
         {
             timer1.Stop();
             lblInfo.Text = "";
@@ -1765,23 +1765,23 @@ namespace podatekLiniowySQL
         //----------------------------------------------------Textboxy-----------------------TYLKO LICZBY-----------------------------------------
 
         //- Pyta przy zamknoęciu czy zapisać
-        private void zakmToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ZakmToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveExit();
         }
 
-        private void sprawdźStwórzBazToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SprawdzStworzBazToolStripMenuItem_Click(object sender, EventArgs e)
         {
             CheckDb();
         }
 
-        private void wczytajDaneToolStripMenuItem_Click(object sender, EventArgs e)
+        private void WczytajDaneToolStripMenuItem_Click(object sender, EventArgs e)
         {
             LoadAllFromDB();
             lblInfo.Text = "... Wczytano dane z bazy ...";
         }
 
-        private void zapiszDaneToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ZapiszDaneToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveRevDB();
             SaveCostDB();
@@ -1792,13 +1792,13 @@ namespace podatekLiniowySQL
         }
 
         //przeciąganie okna
-        private void plSql_MouseDown(object sender, MouseEventArgs e)
+        private void PlSql_MouseDown(object sender, MouseEventArgs e)
         {
             mouseDown = true;
             lastLocation = e.Location;
         }
         //przeciąganie okna
-        private void plSql_MouseMove(object sender, MouseEventArgs e)
+        private void PlSql_MouseMove(object sender, MouseEventArgs e)
         {
             if (mouseDown)
             {
@@ -1809,24 +1809,24 @@ namespace podatekLiniowySQL
             }
         }
         //przeciąganie okna
-        private void plSql_MouseUp(object sender, MouseEventArgs e)
+        private void PlSql_MouseUp(object sender, MouseEventArgs e)
         {
             mouseDown = false;
         }
 
         //data i godzina
-        private void timer2_Tick(object sender, EventArgs e)
+        private void Timer2_Tick(object sender, EventArgs e)
         {
             DateTime dateTime = DateTime.Now;
             this.lblDateTime.Text = dateTime.ToString("dd MMM yyyy - HH:mm:ss", CultureInfo.CreateSpecificCulture("pl-PL"));
         }
 
         //przyciski : minimalizuj, max, zamknij
-        private void llblClose_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LlblClose_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             SaveExit();
         }
-        private void llblMax_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LlblMax_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             if (this.WindowState == FormWindowState.Maximized)
             {
@@ -1840,139 +1840,139 @@ namespace podatekLiniowySQL
                 llblMax.Text = "  Przywróć  ";
             }
         }
-        private void llblMin_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LlblMin_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
         }
 
         //przenosi wpłaty Zus na nast. m-c.
-        private void copyZus1_Click(object sender, EventArgs e)
+        private void CopyZus1_Click(object sender, EventArgs e)
         {
             txtSIns2.Text = txtSIns1.Text;
             txtHIns2.Text = txtHIns1.Text;
         }
 
-        private void copyZus2_Click(object sender, EventArgs e)
+        private void CopyZus2_Click(object sender, EventArgs e)
         {
             txtSIns3.Text = txtSIns2.Text;
             txtHIns3.Text = txtHIns2.Text;
         }
 
-        private void copyZus3_Click(object sender, EventArgs e)
+        private void CopyZus3_Click(object sender, EventArgs e)
         {
             txtSIns4.Text = txtSIns3.Text;
             txtHIns4.Text = txtHIns3.Text;
         }
 
-        private void copyZus4_Click(object sender, EventArgs e)
+        private void CopyZus4_Click(object sender, EventArgs e)
         {
             txtSIns5.Text = txtSIns4.Text;
             txtHIns5.Text = txtHIns4.Text;
         }
 
-        private void copyZus5_Click(object sender, EventArgs e)
+        private void CopyZus5_Click(object sender, EventArgs e)
         {
             txtSIns6.Text = txtSIns5.Text;
             txtHIns6.Text = txtHIns5.Text;
         }
 
-        private void copyZus6_Click(object sender, EventArgs e)
+        private void CopyZus6_Click(object sender, EventArgs e)
         {
             txtSIns7.Text = txtSIns6.Text;
             txtHIns7.Text = txtHIns6.Text;
         }
 
-        private void copyZus7_Click(object sender, EventArgs e)
+        private void CopyZus7_Click(object sender, EventArgs e)
         {
             txtSIns8.Text = txtSIns7.Text;
             txtHIns8.Text = txtHIns7.Text;
         }
 
-        private void copyZus8_Click(object sender, EventArgs e)
+        private void CopyZus8_Click(object sender, EventArgs e)
         {
             txtSIns9.Text = txtSIns8.Text;
             txtHIns9.Text = txtHIns8.Text;
         }
 
-        private void copyZus9_Click(object sender, EventArgs e)
+        private void CopyZus9_Click(object sender, EventArgs e)
         {
             txtSIns10.Text = txtSIns9.Text;
             txtHIns10.Text = txtHIns9.Text;
         }
 
-        private void copyZus10_Click(object sender, EventArgs e)
+        private void CopyZus10_Click(object sender, EventArgs e)
         {
             txtSIns11.Text = txtSIns10.Text;
             txtHIns11.Text = txtHIns10.Text;
         }
 
-        private void copyZus11_Click(object sender, EventArgs e)
+        private void CopyZus11_Click(object sender, EventArgs e)
         {
             txtSIns12.Text = txtSIns11.Text;
             txtHIns12.Text = txtHIns11.Text;
         }
 
-        private void copyTax1_Click(object sender, EventArgs e)
+        private void CopyTax1_Click(object sender, EventArgs e)
         {
             txtPaid1.Text = txtTaxPrepay1.Text;
         }
 
-        private void copyTax2_Click(object sender, EventArgs e)
+        private void CopyTax2_Click(object sender, EventArgs e)
         {
             txtPaid2.Text = txtTaxPrepay2.Text;
         }
 
-        private void copyTax3_Click(object sender, EventArgs e)
+        private void CopyTax3_Click(object sender, EventArgs e)
         {
             txtPaid3.Text = txtTaxPrepay3.Text;
         }
 
-        private void copyTax4_Click(object sender, EventArgs e)
+        private void CopyTax4_Click(object sender, EventArgs e)
         {
             txtPaid4.Text = txtTaxPrepay4.Text;
         }
 
-        private void copyTax5_Click(object sender, EventArgs e)
+        private void CopyTax5_Click(object sender, EventArgs e)
         {
             txtPaid5.Text = txtTaxPrepay5.Text;
         }
 
-        private void copyTax6_Click(object sender, EventArgs e)
+        private void CopyTax6_Click(object sender, EventArgs e)
         {
             txtPaid6.Text = txtTaxPrepay6.Text;
         }
 
-        private void copyTax7_Click(object sender, EventArgs e)
+        private void CopyTax7_Click(object sender, EventArgs e)
         {
             txtPaid7.Text = txtTaxPrepay7.Text;
         }
 
-        private void copyTax8_Click(object sender, EventArgs e)
+        private void CopyTax8_Click(object sender, EventArgs e)
         {
             txtPaid8.Text = txtTaxPrepay8.Text;
         }
 
-        private void copyTax9_Click(object sender, EventArgs e)
+        private void CopyTax9_Click(object sender, EventArgs e)
         {
             txtPaid9.Text = txtTaxPrepay9.Text;
         }
 
-        private void copyTax10_Click(object sender, EventArgs e)
+        private void CopyTax10_Click(object sender, EventArgs e)
         {
             txtPaid10.Text = txtTaxPrepay10.Text;
         }
 
-        private void copyTax11_Click(object sender, EventArgs e)
+        private void CopyTax11_Click(object sender, EventArgs e)
         {
             txtPaid11.Text = txtTaxPrepay11.Text;
         }
 
-        private void copyTax12_Click(object sender, EventArgs e)
+        private void CopyTax12_Click(object sender, EventArgs e)
         {
             txtPaid12.Text = txtTaxPrepay12.Text;
         }
 
-        private void txtPaid1_TextChanged(object sender, EventArgs e)
+        private void TxtPaid1_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -1996,7 +1996,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid2_TextChanged(object sender, EventArgs e)
+        private void TxtPaid2_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2020,7 +2020,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid3_TextChanged(object sender, EventArgs e)
+        private void TxtPaid3_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2045,7 +2045,7 @@ namespace podatekLiniowySQL
 
         }
 
-        private void txtPaid4_TextChanged(object sender, EventArgs e)
+        private void TxtPaid4_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2069,7 +2069,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid5_TextChanged(object sender, EventArgs e)
+        private void TxtPaid5_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2093,7 +2093,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid6_TextChanged(object sender, EventArgs e)
+        private void TxtPaid6_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2117,7 +2117,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid7_TextChanged(object sender, EventArgs e)
+        private void TxtPaid7_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2141,7 +2141,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid8_TextChanged(object sender, EventArgs e)
+        private void TxtPaid8_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2165,7 +2165,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid9_TextChanged(object sender, EventArgs e)
+        private void TxtPaid9_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2189,7 +2189,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid10_TextChanged(object sender, EventArgs e)
+        private void TxtPaid10_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2213,7 +2213,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid11_TextChanged(object sender, EventArgs e)
+        private void TxtPaid11_TextChanged(object sender, EventArgs e)
         {
             try
             {
@@ -2237,7 +2237,7 @@ namespace podatekLiniowySQL
             }
         }
 
-        private void txtPaid12_TextChanged(object sender, EventArgs e)
+        private void TxtPaid12_TextChanged(object sender, EventArgs e)
         {
             try
             {
